@@ -1,2 +1,1 @@
-This is an update from the main branch.
-
+git checkout main
