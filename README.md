@@ -1,4 +1,6 @@
-This is a conflicting change from TEST branch.
+git checkout main
+git pull origin main   
+git checkout -b another_main
+git push origin another_main
 
-This is a change from MAIN branch.
 
