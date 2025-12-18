@@ -1,1 +1,2 @@
-git checkout -b Another_branch
+This is a conflicting change from ANOTHER branch.
+
